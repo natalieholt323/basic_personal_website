@@ -2,20 +2,16 @@ html {
 	font-family:'Lato', sans-serif;
 }
 
-.h1 {
+.header {
 	font-size: 20px;
+	margin: 0 auto;
 	text-align: center;
-	color: #A52A2A;
+	color: #FF7F50;
 }
 
 .experience {
 	margin: 0 auto;
     width: 60%;
-    text-align: center;
+    text-align: left;
 }
 
-.header {
-	font-size: 100px;
-	color: #FF7F50;
-	text-align: center;
-}
