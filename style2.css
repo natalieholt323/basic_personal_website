@@ -2,19 +2,20 @@ html {
 	font-family:'Lato', sans-serif;
 }
 
-
-.header {
+.h1 {
 	font-size: 20px;
 	text-align: center;
 	color: #A52A2A;
 }
 
-.about_me {
+.experience {
 	margin: 0 auto;
     width: 60%;
     text-align: center;
 }
-.resume {
-		text-align: center;
-		font-size: 15px;
+
+.header {
+	font-size: 100px;
+	color: #FF7F50;
+	text-align: center;
 }
