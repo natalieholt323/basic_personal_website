@@ -1,5 +1,14 @@
-h1 {
+html {
 	font-family:'Lato', sans-serif;
+}
+
+.main{
+
+}
+
+
+.header {
 	font-size: 100px;
 	color: #FF7F50;
+	text-align: center;
 }
