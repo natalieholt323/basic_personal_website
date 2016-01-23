@@ -9,6 +9,16 @@ html {
 	color: #FF7F50;
 }
 
+.img-circle {
+	display: block;
+    border-radius: 50%;
+    width: 220px;
+    height: 200px;
+    margin: 0 auto;
+    border: 3px solid #600000 ;
+    padding: 10px;
+}
+
 .experience {
 	margin: 0 auto;
     width: 60%;
