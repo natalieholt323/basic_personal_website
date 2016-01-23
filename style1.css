@@ -2,12 +2,19 @@ html {
 	font-family:'Lato', sans-serif;
 }
 
-
 .header {
 	font-size: 20px;
 	text-align: center;
 	color: #A52A2A;
 }
+
+.image {
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -20%;
+ }   
 
 .about_me {
 	margin: 0 auto;
@@ -15,6 +22,6 @@ html {
     text-align: center;
 }
 .resume {
-		text-align: center;
-		font-size: 15px;
+	text-align: center;
+	font-size: 15px;
 }
