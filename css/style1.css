@@ -4,7 +4,6 @@ html {
 
 #wrapper {
 	width:800px;
-	background-color:#f2f2e8;
 	position:relative;
 	left:50%;
 	margin-left:-400px;
@@ -15,10 +14,10 @@ html {
 
 .image {
 	display: block;
-    width: 220px;
-    height: 200px;
+    width: 300px;
     margin: 0 auto;
     padding: 10px;
+
  }   
 
 .header {
@@ -31,6 +30,7 @@ html {
 	margin: 0 auto;
     width: 60%;
     text-align: center;
+
 }
 .resume {
 	text-align: center;
