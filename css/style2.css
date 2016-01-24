@@ -17,7 +17,7 @@ html {
     height: 200px;
     margin: 0 auto;
     border: 3px solid #600000 ;
-    padding: 10px;
+    padding: 20px;
 }
 
 .experience {
@@ -26,12 +26,11 @@ html {
     text-align: left;
 }
 
-.experience video {
-    display: block;
-    text-align: center;
-    padding-top: 20px;
-    color: #FF7F50;
-    font-size: 20px;
+    .video {
+        display: block;
+        text-align: left;
+        color: ##500000 ;
+        font-size: 20px;
 }   
 
 .experience h4 {
@@ -39,8 +38,8 @@ html {
     text-align: center;
     width: 20%;
     margin: 0 auto;
-    font-size: 10px;
-    color: #FF7F50
+    font-size: 20px;
+    color: #500000;
 }
 
 .p {
