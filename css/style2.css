@@ -1,5 +1,6 @@
 html {
 	font-family:'Lato', sans-serif;
+    background-color:#f2f2e8;
 }
 
 .header {
@@ -25,3 +26,26 @@ html {
     text-align: left;
 }
 
+#video {
+    display: block;
+    text-align: center;
+    padding-top: 20px;
+    color: #FF7F50;
+    font-size: 20px;
+}   
+
+
+.h4 {
+    display: block;
+    text-align: center;
+    width: 20%;
+    margin: 0 auto;
+    font-size: 10px;
+    color: #FF7F50
+}
+
+.p {
+    display: block;
+    text-indent: 50px;
+    width: 60%;
+}
